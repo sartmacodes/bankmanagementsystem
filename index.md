@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Project Site
 
-You can use the [editor on GitHub](https://github.com/sartmacodes/bankmanagementsystem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the embeded site below to experience the code. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://replit.com/@SMcodes/LimegreenFrontFunnel#main.py
 
 ### Markdown
 
